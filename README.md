@@ -1,2 +1,2 @@
 # Lab: 29 - DjangoX
-### [PR]()
+### [PR](https://github.com/BelalElolahi/DjangoX/pull/2)
